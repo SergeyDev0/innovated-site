@@ -1,0 +1,207 @@
+.description{
+    font-size: 16px;
+    color: #5D5E70;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.section-card{
+    width: 340px;
+    font-family: 'Poppins', sans-serif;
+    height: auto;
+    margin: 0;
+}
+.section-card-title{
+    font-size: 24px;
+    font-family: 'Gelasio', serif;
+}
+.conteiner-card-title{
+    width: 220px;
+    margin-bottom: 20px;
+}
+.section__what-we-do{
+    margin-bottom: 20px;
+    padding: 15px 30px;
+    background-color: rgba(45, 116, 255, 1);
+    border-radius: 5px;
+    font-size: 18px;
+    color: white;
+}
+.wrapper-section{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 80px;
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+.header__title-description{
+    text-transform: uppercase;
+    font-size: 18px;
+    color: rgba(45, 116, 255, 1);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+.section__conteiner-content{
+    width: 500px;
+    height: 300px;
+    background-color: rgb(165, 165, 165);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.task-card{
+    width: 225px;
+}
+.task-title-card{
+    text-align: center;
+    font-family: 'Gelasio', serif;
+    margin-bottom: 15px;
+    font-size: 21px;
+}
+.conteiner-icon-task{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 35px;
+}
+.task-title-section{
+    text-align: center;
+    font-size: 28px;
+    font-family: 'Gelasio', serif;
+    margin-bottom: 90px;
+}
+.task-cards{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 160px;
+}
+.description-task{
+    font-size: 16px;
+    color: #5D5E70;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+.title-commentaries{
+    font-size: 26px;
+    font-family: 'Gelasio', serif;
+    margin-left: 10px;
+}
+.conteiner-commentaries{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
+.wrapper-title-commentaries{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.line{
+    margin-top: 7px;
+}
+.arrows{
+    margin-top: 7px;
+}
+.arrow{
+    margin-left: 70px;
+}
+.PHIO{
+    display: flex;
+    align-items: center;
+}
+.work-elon{
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+.name-elon{
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-family: 'Gelasio', serif;
+}
+.description-phio{
+    font-size: 16px;
+    color: #5D5E70;
+    font-family: 'Poppins', sans-serif;
+    margin-bottom: 25px;
+}
+.card-phio{
+    width: 320px;
+}
+.conteiner-name{
+    margin-left: 30px;
+}
+.zapyataya{
+    margin-bottom: 13px;
+}
+.name-easin{
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-family: 'Gelasio', serif;
+    color: #5D5E70;
+}
+.work-easin{
+    color: #5D5E70;
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+}
+.cards-phio{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+.border-card:nth-child(1){
+    padding: 20px 30px;
+    border: solid white 1px;
+}
+.card-phio:nth-child(1){
+    margin-right: 20px;
+}
+.border-card{
+    padding: 20px 30px;
+    border-radius: 5px;
+    border: solid #E6E6E6 1px;
+}
+.btn-email{
+    font-family: 'Poppins', sans-serif;
+    padding: 10px 25px;
+    background-color: rgba(45, 116, 255, 1);
+    border-radius: 5px;
+    font-size: 16px;
+    color: white;
+    border: none; 
+    cursor: pointer;
+}
+.email-input{
+    width: 400px;
+    height: 35px;
+    outline: none;
+    border: 1px solid #8B8C99;
+    border-radius: 5px;
+}
+.text-email{
+    width: 500px;
+}
+.wrapper-form-email{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.title-email{
+    text-align: center;
+    font-family: 'Gelasio', serif;
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+.form-email{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 120px;
+}
+.email-input-btn{
+    margin-top: 25px;
+}
+::placeholder{
+    padding-left: 20px;
+    font-size: 17px;
+}
